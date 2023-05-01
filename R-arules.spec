@@ -5,7 +5,7 @@
 #
 Name     : R-arules
 Version  : 1.7.6
-Release  : 13
+Release  : 14
 URL      : https://cran.r-project.org/src/contrib/arules_1.7-6.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/arules_1.7-6.tar.gz
 Summary  : Mining Association Rules and Frequent Itemsets
